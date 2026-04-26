@@ -1,0 +1,11 @@
+product_name,source,price,timestamp
+Cloud Storage 1TB,Amazon S3,23.00,2026-04-26 18:15
+Cloud Storage 1TB,Google Cloud,20.00,2026-04-26 18:15
+Cloud Storage 1TB,Azure Blob,21.50,2026-04-26 18:15
+Compute Instance v2,DigitalOcean,40.00,2026-04-26 18:15
+Compute Instance v2,Linode,35.00,2026-04-26 18:15
+Compute Instance v2,Vultr,38.00,2026-04-26 18:15
+Managed Database,AWS RDS,120.00,2026-04-26 18:15
+Managed Database,Google Cloud SQL,115.00,2026-04-26 18:15
+Load Balancer,DigitalOcean,12.00,2026-04-26 18:15
+Load Balancer,AWS ELB,18.00,2026-04-26 18:15

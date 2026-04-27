@@ -38,33 +38,29 @@ This project is a **Competitor Price Tracker** designed to help suppliers and bu
 
 ## ⚙️ Installation & Setup
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/tanmaygohad49-ops/supplier-project.git
-    cd supplier-project
-    ```
-
-2.  **Install dependencies:**
+1.  **Install dependencies:**
     Ensure you have Python installed. You will need Flask:
     ```bash
     pip install flask
     ```
 
-3.  **Generate the initial data:**
+
+2. **Generate the initial data:**
     Run the scraper to create the `market_data.csv` file:
     ```bash
     python scraper.py
     ```
 
-4.  **Run the application:**
+3. **Run the application:**
     ```bash
     python app.py
     ```
 
-5.  **View the Dashboard:**
+4. **View the Dashboard:**
     Open your browser and navigate to `http://127.0.0.1:8080`.
 
 ---
+
 
 ## 📊 How it Works
 
